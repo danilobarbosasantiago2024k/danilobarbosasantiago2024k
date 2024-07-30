@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá, seja bem vindo(a) ao meu perfil! 🌤️☁️⭐
 
-<!--
-**danilobarbosasantiago2024k/danilobarbosasantiago2024k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Danilo Barbosa
 
-Here are some ideas to get you started:
+- Eu tenho 15 anos
+- Sou estudante da escola Antonio Florentino
+- Gosto de ouvir música
+- Minha matéria favorita é português e física
+- Gosto de passar tempo com a família e amigos
+- Gosto de escrever poesias\versos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📧 💻
+
+00001118565678sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/9qpDo1yk2ZYAAAAM/ariana-grande-ariana.gif)
